@@ -1,0 +1,24 @@
+{
+  "tables": [
+    {
+      "table_name": "begin_inventory",
+      "file_path": "Akhil-work535/SupplyGuard-AI-Procurement-Decision-Intelligence-Platform/refs/heads/main/begin_inventory.csv"
+    },
+    {
+      "table_name": "end_inventory",
+      "file_path": "Akhil-work535/SupplyGuard-AI-Procurement-Decision-Intelligence-Platform/refs/heads/main/end_inventory.csv"
+    },
+    {
+      "table_name": "purchase_prices",
+      "file_path": "Akhil-work535/SupplyGuard-AI-Procurement-Decision-Intelligence-Platform/refs/heads/main/purchase_prices.csv"
+    },
+    {
+      "table_name": "vendor_invoice",
+      "file_path": "Akhil-work535/SupplyGuard-AI-Procurement-Decision-Intelligence-Platform/refs/heads/main/vendor_invoice.csv"
+    },
+    {
+      "table_name": "vendor_sales_summary",
+      "file_path": "Akhil-work535/SupplyGuard-AI-Procurement-Decision-Intelligence-Platform/refs/heads/main/vendor_sales_summary.csv"
+    }
+  ]
+}
